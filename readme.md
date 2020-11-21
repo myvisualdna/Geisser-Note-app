@@ -20,7 +20,7 @@
 -->
 
 [![Contributors][contributors-shield]][https://github.com/myvisualdna]
-[![MIT License][license-shield]][https://github.com/myvisualdna]
+[![MIT License][https://github.com/myvisualdna][]
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/andres-nieves-258028197]
 
 <!-- PROJECT LOGO -->
