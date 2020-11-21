@@ -19,12 +19,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/myvisualdna]
+[![MIT License][license-shield]][https://github.com/myvisualdna]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/andres-nieves-258028197]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -59,8 +56,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -72,14 +67,24 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
-This is a Note-taking app entirely built on MERN Stack from scratch. I entirely developed Backend (Node.Js, Express, MongoDB, Mongoose, Cors, DotEnv) & FrontEnd (React, Redux, Redux Toolkit, React-Router, Axios, SASS, Bootstrap, Styled-Components, Timeago.js) from scratch.
-`github_username`, `repo_name`, `twitter_handle`, `email`
+This is a Note-taking app entirely built on MERN Stack from scratch. I entirely developed:
+
+- Backend (Node.Js, Express, MongoDB, Mongoose, Cors, DotEnv).s
+
+- FrontEnd (React, Redux, Redux Toolkit, React-Router, Axios, SASS, Bootstrap, Styled-Components, Timeago.js) from scratch.
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [React]()
+- [Node]()
+- [Express]()
+- [MongoDB]()
+- [Bootstrap]()
+- [React-Router]()
+- [Mongoose]()
+- [Axios]()
+- [SASS]()
+- [Styled Components]()
 
 <!-- GETTING STARTED -->
 
