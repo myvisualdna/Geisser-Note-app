@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">GEISSER</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Note-taking App [MERN Stack]
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,7 +72,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+This is a Note-taking app entirely built on MERN Stack from scratch. I entirely developed Backend (Node.Js, Express, MongoDB, Mongoose, Cors, DotEnv) & FrontEnd (React, Redux, Redux Toolkit, React-Router, Axios, SASS, Bootstrap, Styled-Components, Timeago.js) from scratch.
 `github_username`, `repo_name`, `twitter_handle`, `email`
 
 ### Built With
@@ -89,12 +89,14 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This app needs the following environment Variables
 
 - npm
 
 ```sh
-npm install npm@latest -g
+MONGODB_URI=mongodb://localhost/mernnew
+
+PORT=3030
 ```
 
 ### Installation
@@ -102,7 +104,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com:myvisualdna/Geisser-Note-app.git
 ```
 
 2. Install NPM packages
@@ -115,27 +117,11 @@ npm install
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Geisser features three main sections:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- "Create Users": you can create a list of users,
+- "Create Notes": you can create/edit a not adding one of the users created before as author,
+- "Notes": ypu can see a list of all the notes saved in your database.
 
 <!-- LICENSE -->
 
@@ -147,9 +133,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Andres Nieves - [@twitter_handle](https://twitter.com/twitter_handle) - myvisualdna@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Geisser Note-app](https://github.com/myvisualdna/Geisser-Note-app)
 
 <!-- ACKNOWLEDGEMENTS -->
 
