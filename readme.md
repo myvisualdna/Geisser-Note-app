@@ -19,9 +19,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][https://github.com/myvisualdna]
-[![MIT License][https://github.com/myvisualdna][]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/andres-nieves-258028197]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -75,16 +78,18 @@ This is a Note-taking app entirely built on MERN Stack from scratch. I entirely 
 
 ### Built With
 
-- [React]()
-- [Node]()
-- [Express]()
-- [MongoDB]()
-- [Bootstrap]()
-- [React-Router]()
-- [Mongoose]()
-- [Axios]()
-- [SASS]()
-- [Styled Components]()
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Redux](https://redux.js.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Bootstrap](https://react-bootstrap.github.io/)
+- [React-Router](https://reactrouter.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [SASS](https://sass-lang.com/)
+- [Styled Components](https://styled-components.com/)
 
 <!-- GETTING STARTED -->
 
@@ -94,13 +99,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This app needs the following environment Variables
-
-- npm
+This app needs the following environment Variables:
 
 ```sh
 MONGODB_URI=mongodb://localhost/mernnew
-
 PORT=3030
 ```
 
@@ -126,7 +128,7 @@ Geisser features three main sections:
 
 - "Create Users": you can create a list of users,
 - "Create Notes": you can create/edit a not adding one of the users created before as author,
-- "Notes": ypu can see a list of all the notes saved in your database.
+- "Notes": you can see a list of all the notes saved in your database.
 
 <!-- LICENSE -->
 
@@ -136,19 +138,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+## Author
 
-Andres Nieves - [@twitter_handle](https://twitter.com/twitter_handle) - myvisualdna@gmail.com
+Andres Nieves - Email: myvisualdna@gmail.com
 
 Project Link: [Geisser Note-app](https://github.com/myvisualdna/Geisser-Note-app)
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- []()
-- []()
-- []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -164,5 +158,5 @@ Project Link: [Geisser Note-app](https://github.com/myvisualdna/Geisser-Note-app
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://www.linkedin.com/in/andres-nieves-258028197
 [product-screenshot]: images/screenshot.png
